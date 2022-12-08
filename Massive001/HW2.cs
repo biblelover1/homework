@@ -84,3 +84,12 @@
 // if(numm1 > max) max = numm1;
 // if(numm2 > max) max = numm2;
 // Console.Write($"Max number is {max}");
+
+//                  Exxercise 8 (previous HW)
+// Console.WriteLine("Enter number: ");
+// int numm = Convert.ToInt32(Console.ReadLine());
+// int i = 2;
+// while(i < numm){
+//      Console.WriteLine($"{i}");
+//      i = i + 2;
+// }
