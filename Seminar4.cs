@@ -9,11 +9,11 @@
 // Console.WriteLine($"Result is {res}");
 
 // int Grade(int a, int b){
-//     int sum = 2;
-//     for(int i = 2; i <= b; i++){
-//         a = a*sum;
-//     }
-//     return a;
+    int sum = a;
+    for(int i = 2; i <= b; i++){
+    sum = a*sum;    
+    }
+    return sum;
 // }
 
 
